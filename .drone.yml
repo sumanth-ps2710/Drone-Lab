@@ -1,7 +1,7 @@
 ---
 kind: pipeline
 type: docker
-name: 2_Steps_Build_new
+name: 2_Steps_Build
 
 steps:
 
